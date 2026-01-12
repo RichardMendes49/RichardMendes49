@@ -1,7 +1,9 @@
-Sou estudante de **Ciência da Computação** com foco em **Back-End**, sempre buscando evoluir através de projetos práticos e estudos constantes em desenvolvimento de software.
+Guilherme Pinheiro dos Santos
 
-- 🔧 Interesse principal em **desenvolvimento back-end**
-- 📚 Atualmente aprofundando conhecimentos em **Java e Spring Boot**
+Sou estudante de **Ciência da Computação** , sempre buscando evoluir através de projetos práticos e estudos constantes em desenvolvimento de software.
+
+
+- 📚 Atualmente aprofundando conhecimentos em **Java e Javas Sript**
 - 💡 Gosto de aprender resolvendo problemas reais
 
 ---
@@ -10,11 +12,9 @@ Sou estudante de **Ciência da Computação** com foco em **Back-End**, sempre b
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+
 </p>
 
 ---
@@ -22,15 +22,13 @@ Sou estudante de **Ciência da Computação** com foco em **Back-End**, sempre b
 ### 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/RichardMendes49">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:richardmebdes49@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+
 </p>
 
 ---
