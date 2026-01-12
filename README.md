@@ -22,14 +22,15 @@ Sou estudante de **Ciência da Computação** , sempre buscando evoluir através
 ### 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/RichardMendes49">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:richardmebdes49@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/RichardMendes49" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
+  <a href="mailto:richardmebdes49@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
