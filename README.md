@@ -14,7 +14,7 @@ Sou estudante de **Ciência da Computação** , sempre buscando evoluir através
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://assets.dio.me/uekQNolZzfjHOPVCuhzEALRVCzL351mMT_-MYSJkJ4U/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzU5ZGRiOWIwLTI3NDAtNDE3OC1hMTI0LWFjOGZjZGFmOGVhNy5qcGc" width="45"/>
 
 </p>
 
