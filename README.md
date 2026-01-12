@@ -8,7 +8,7 @@ Sou estudante de **Ciência da Computação** , sempre buscando evoluir através
 
 ---
 
-### 🛠️ Stack Tecnológica
+### 🛠️ Tecnológias
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
