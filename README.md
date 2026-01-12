@@ -22,7 +22,7 @@ Sou estudante de **Ciência da Computação** , sempre buscando evoluir através
 ### 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="www.linkedin.com/in/richard-bernardino-mendes-3a1422245" target="_blank">
+  <a href="https://www.linkedin.com/in/richard-bernardino-mendes-3a1422245/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
