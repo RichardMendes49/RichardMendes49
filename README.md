@@ -1,4 +1,4 @@
-Guilherme Pinheiro dos Santos
+Richard Bernardino Mendes
 
 Sou estudante de **Ciência da Computação** , sempre buscando evoluir através de projetos práticos e estudos constantes em desenvolvimento de software.
 
