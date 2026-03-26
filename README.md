@@ -27,7 +27,7 @@ Sou estudante de **Ciência da Computação** , sempre buscando evoluir através
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=richardmendes49@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=richardmebdes49@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
