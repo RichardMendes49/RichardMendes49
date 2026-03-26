@@ -3,7 +3,7 @@ Richard Bernardino Mendes
 Sou estudante de **Ciência da Computação** , sempre buscando evoluir através de projetos práticos e estudos constantes em desenvolvimento de software.
 
 
-- 📚 Atualmente aprofundando conhecimentos em **Java e Javas Sript**
+- 📚 Atualmente aprofundando conhecimentos em **Java e Java Sript**
 - 💡 Gosto de aprender resolvendo problemas reais
 
 ---
@@ -27,10 +27,9 @@ Sou estudante de **Ciência da Computação** , sempre buscando evoluir através
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:richardmebdes49@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=richardmendes49@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</a>
 
 
 ---
