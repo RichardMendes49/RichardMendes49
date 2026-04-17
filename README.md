@@ -1,8 +1,3 @@
-<img src="https://raw.githubusercontent.com/RichardMendes49/RichardMendes49/main/intro.gif" />
-
-
-
-
 Richard Bernardino Mendes
 
 Sou estudante de **Ciência da Computação** , sempre buscando evoluir através de projetos práticos e estudos constantes em desenvolvimento de software.
