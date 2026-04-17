@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Ola Seja Bem Vindo " title="Este repositório de quem vos fala é meu. Muito prazer)"/>])
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+
 
 
 Richard Bernardino Mendes
