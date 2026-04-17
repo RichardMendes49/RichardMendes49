@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Ola Seja Bem Vindo " title="Este repositório de quem vos fala é meu. Muito prazer)"/>])
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/intro.gif" />
 
 
 
