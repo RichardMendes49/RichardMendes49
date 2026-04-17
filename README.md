@@ -32,14 +32,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/richard-bernardino-mendes-3a1422245/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=richardmebdes49@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 ---
 
-### 📈 Em constante evolução
+## 🚀 Em constante evolução
 
-Estou sempre aberto a aprender novas tecnologias, melhorar minha lógica de programação e colaborar em projetos que tragam desafios reais.
+Sempre buscando aprender novas tecnologias, melhorar minha lógica e participar de projetos desafiadores.
+
+---
+
+<p align="center">
+  ⚡ "Evoluir um pouco todos os dias"
+</p>
