@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/intro.gif" />
+<img src="https://raw.githubusercontent.com/RichardMendes49/RichardMendes49/main/intro.gif" />
 
 
 
