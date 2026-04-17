@@ -1,4 +1,5 @@
-<h1 align="center">👋 Olá, eu sou Richard Bernardino Mendes</h1>
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Ola+eu+sou+Richard+seja+bem-vindo)
 
 <p align="center">
   💻 Estudante de Ciência da Computação <br>
